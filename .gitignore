@@ -1,0 +1,21 @@
+# Delphi build output
+*.exe
+*.res
+*.RES
+*.dcu
+*.dcp
+*.bpl
+*.map
+*.rsm
+*.tds
+*.dproj.local
+*.identcache
+*.stat
+__history/
+__recovery/
+
+# Local scratch files
+*.log
+*.bak
+Thumbs.db
+Desktop.ini
